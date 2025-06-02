@@ -12,8 +12,8 @@ const secondary_font = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Ian Korovinsky",
-  description: "Dream it. Build it. Ship it.",
+  title: "Duncan Sebampitako",
+  description: "Machine Learning Engineer | AI Student | NLP Specialist",
 };
 
 export default function RootLayout({
