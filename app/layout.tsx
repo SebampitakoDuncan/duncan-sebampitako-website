@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Duncan Sebampitako - Machine Learning Engineer",
     description: "Machine Learning Engineer pursuing MS in AI at La Trobe University. Specializing in NLP, Deep Learning, and AI applications.",
-    url: "https://personal-website-e4aka9jey-sebampitakoduncans-projects.vercel.app",
+    url: "https://www.duncansebampitako.com",
     siteName: "Duncan Sebampitako Portfolio",
     type: "website",
   },

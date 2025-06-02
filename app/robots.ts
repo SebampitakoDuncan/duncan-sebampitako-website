@@ -1,7 +1,9 @@
 import { MetadataRoute } from 'next'
 
+export const dynamic = 'force-static'
+
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://personal-website-e4aka9jey-sebampitakoduncans-projects.vercel.app'
+  const baseUrl = 'https://www.duncansebampitako.com'
   
   return {
     rules: {
