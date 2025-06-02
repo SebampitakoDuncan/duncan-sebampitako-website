@@ -31,6 +31,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Duncan Sebampitako" }],
   creator: "Duncan Sebampitako",
+  verification: {
+    google: "R-9NOObVtaOJLVqaRObczeX8-xmTwYC4koGtiL5vGX4",
+  },
   openGraph: {
     title: "Duncan Sebampitako - Machine Learning Engineer",
     description: "Machine Learning Engineer pursuing MS in AI at La Trobe University. Specializing in NLP, Deep Learning, and AI applications.",
